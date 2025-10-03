@@ -66,10 +66,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 *Contact:*
 
-Author: Kashvi Mittal
+Author: Sukhmani Kaur
 
-GitHub: [https://github.com/your-username](https://github.com/kashvimittal02)
+GitHub: [https://github.com/your-username](https://github.com/Sukhmani4124)
 
-Email: kashvimittal027@gmail.com
+Email: sukhmani4124@gmail.com
 
 ---
